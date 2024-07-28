@@ -1,0 +1,12 @@
+printer-*.cfg
+*.bkp
+KAMP
+logs
+systemd
+misc
+certs
+backup
+gcodes
+comms
+moonraker.asvc
+.moonraker.uuid
